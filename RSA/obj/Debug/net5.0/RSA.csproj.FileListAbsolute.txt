@@ -1,0 +1,16 @@
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.csproj.AssemblyReference.cache
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.AssemblyInfoInputs.cache
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.AssemblyInfo.cs
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.csproj.CoreCompileInputs.cache
+D:\Shifr\RSA\bin\Debug\net5.0\RSA.exe
+D:\Shifr\RSA\bin\Debug\net5.0\RSA.deps.json
+D:\Shifr\RSA\bin\Debug\net5.0\RSA.runtimeconfig.json
+D:\Shifr\RSA\bin\Debug\net5.0\RSA.runtimeconfig.dev.json
+D:\Shifr\RSA\bin\Debug\net5.0\RSA.dll
+D:\Shifr\RSA\bin\Debug\net5.0\ref\RSA.dll
+D:\Shifr\RSA\bin\Debug\net5.0\RSA.pdb
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.dll
+D:\Shifr\RSA\obj\Debug\net5.0\ref\RSA.dll
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.pdb
+D:\Shifr\RSA\obj\Debug\net5.0\RSA.genruntimeconfig.cache
